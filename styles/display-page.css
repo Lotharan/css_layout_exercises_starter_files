@@ -1,0 +1,44 @@
+main {
+	font-size: 0;
+	padding: 30px;
+	margin-left: auto;
+	margin-right:auto;
+	width: 800px;
+}
+.blue {
+	border: solid 1px black;
+	height: 200px;
+	width: 50%;
+	background-color: blue;
+	font-size: 0;
+}
+.green {
+	border: solid 1px black;
+	height: 200px;
+	width: 50%;
+	background-color: green;
+}
+.first {
+	display: inline-block;
+}
+.grey {
+	border: solid 1px black;
+	height: 300px;
+	width: 33.33%;
+	background-color: grey;
+}
+.black {
+	border: solid 1px black;
+	height: 300px;
+	width: 33.33%;
+	background-color: black;
+}
+.peach {
+	border: solid 1px black;
+	height: 300px;
+	width: 33.33%;
+	background-color: orange;
+}
+.second {
+	display: inline-block;
+}
